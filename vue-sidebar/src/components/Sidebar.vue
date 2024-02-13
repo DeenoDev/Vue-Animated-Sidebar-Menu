@@ -26,6 +26,17 @@ export default {
 .sidebar {
     color: white;
     background-color: var(--sidebar-bg-color);
+
+    float: left;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    padding: 0.5em;
+
+    display: flex;
+    flex-direction: column;
 }
 
 </style>
