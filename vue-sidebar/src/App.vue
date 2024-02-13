@@ -1,4 +1,9 @@
-
+<template>
+  <Sidebar />
+  <div>
+    <router-view />
+  </div>
+</template>
 
 <script>
 
