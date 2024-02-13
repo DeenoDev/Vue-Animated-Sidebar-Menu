@@ -35,6 +35,8 @@ export default {
     bottom: 0;
     padding: 0.5em;
 
+    transition: 0.3 ease;
+
     display: flex;
     flex-direction: column;
 }
