@@ -2,6 +2,7 @@
     <div class="sidebar" :style="{width: sidebarWidth}">
         <span
             class="collapse-icon" @click ="toggleSidebar">
+            <i class="fas fa-angle-double-left"/>
             
         
         </span>
