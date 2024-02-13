@@ -21,3 +21,11 @@ export default {
     --sidebar-bg-color: #276749;
 }
 </style>
+
+<style scoped>
+.sidebar {
+    color: white;
+    background-color: var(--sidebar-bg-color);
+}
+
+</style>
